@@ -31,10 +31,10 @@ suite
   .addFunction('BosNaufal/terbilang-js', s => terbilang(s))
 
   // Add inputs
-  .addInput('Ratusan Ribu', [618277])
-  .addInput('Ratusan Juta', [120019212])
-  .addInput('Ratusan Milyar', [999120019212])
-  .addInput('Ratusan Triliun', [865999120019212])
+  .addInput('Ratusan Ribu', ['618277'])
+  .addInput('Ratusan Juta', ['120019212'])
+  .addInput('Ratusan Milyar', ['999120019212'])
+  .addInput('Ratusan Triliun', ['865999120019212'])
 
   // Add listeners
   .on('cycle', event => {
