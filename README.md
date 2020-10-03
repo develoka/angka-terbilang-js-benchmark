@@ -2,19 +2,19 @@
 
 Benchmark untuk membandingkan performa package [@develoka/angka-terbilang-js](https://github.com/develoka/angka-terbilang-js) terhadap package node lain yang serupa. Benchmark dilakukan menggunakan [Benchtable](https://github.com/izuzak/benchtable)
 
-# Instalasi
+## Instalasi
 
 ```
 npm install
 ```
 
-# Menjalankan Benchmark
+## Menjalankan Benchmark
 
 ```
 npm run bench
 ```
 
-# Hasil
+## Hasil
 
 | Package                          | Ratusan Ribu      | Ratusan Juta      | Ratusan Milyar    | Ratusan Triliun   |
 |----------------------------------|-------------------|-------------------|-------------------|-------------------|
