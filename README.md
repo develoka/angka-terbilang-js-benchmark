@@ -2,6 +2,8 @@
 
 Benchmark untuk membandingkan performa package [@develoka/angka-terbilang-js](https://github.com/develoka/angka-terbilang-js) terhadap package node lain yang serupa. Benchmark dilakukan menggunakan [Benchtable](https://github.com/izuzak/benchtable)
 
+![Alt text](benchmark-result.png?raw=true "Benchmark result")
+
 ## Instalasi
 
 ```
